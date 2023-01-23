@@ -1,3 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<p>test</p>
+<script>
+  import Begin from '../lib/components/Begin.svelte';
+</script>
+
+<!-- insert SEO title -->
+<Begin/> 
