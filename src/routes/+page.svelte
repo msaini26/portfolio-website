@@ -1,5 +1,5 @@
 <script>
-  import Begin from '../doc/components/Begin.svelte';
+  import Begin from '../lib/components/Begin.svelte';
   import Frame from '../routes/Frame.svelte'
 </script>
 
