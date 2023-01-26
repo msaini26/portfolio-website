@@ -7,6 +7,8 @@
     <!-- import Nav bar component -->
     <Nav/>
 
+    <!-- Project Icons -->
+
     <!-- TODO: import footer component -->
 
 </body>

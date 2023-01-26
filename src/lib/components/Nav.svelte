@@ -14,7 +14,6 @@
 	</head>
 
 	<header class="nav-main"> 
-		<!-- TODO: finish navbar and put name and image in line -->
 		<nav class="navbar navbar-light shift">
 			<a class="navbar-brand" href="/">
 				<img src="../../src/static/assets/personal-logo.svg" width="45" height="45" class="d-inline-block align-top" alt="">
