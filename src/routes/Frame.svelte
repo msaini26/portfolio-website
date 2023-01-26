@@ -7,5 +7,7 @@
     <!-- import Nav bar component -->
     <Nav/>
 
+    <!-- TODO: import footer component -->
+
 </body>
 
