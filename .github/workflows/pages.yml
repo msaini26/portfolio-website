@@ -52,4 +52,4 @@ jobs:
 
     steps:
       - name: Send HTTP GET request
-        run: curl http://www.google.com/ping?sitemap=https://mansi-portfolio.io/sitemap.xml
+        run: curl http://www.google.com/ping?sitemap=https:/msaini26.github.io/portfolio-website/sitemap.xml
