@@ -43,7 +43,7 @@
 			and designers and am passionate about increasing diversity in the technology field.
 		</p>
 
-		<img src="favicon.png" alt="test" />
+		<img src="../src/routes/linkedin.png" alt="test" />
 
 		<div class="container">
 			<div class="row row-cols">
