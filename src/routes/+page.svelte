@@ -43,6 +43,8 @@
 			and designers and am passionate about increasing diversity in the technology field.
 		</p>
 
+		<img src="favicon.png" alt="test" />
+
 		<div class="container">
 			<div class="row row-cols">
 				<div class="col-1">
