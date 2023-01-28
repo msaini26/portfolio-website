@@ -38,8 +38,8 @@
 		<h4 class="col-md-12 subtitle">Hackathon Coach @ Major League Hacking</h4>
 		<p class="subhead col-12 col-md-9">
 			I'm an undergraduate student at the University of California, Santa Cruz pursuing a <strong
-				>B.S. in Computer Science</strong
-			> degree and have a passion for Human-Computer Interaction (HCI). I bridge the gap between engineers
+				>B.S. in Computer Science: Computer Game Design</strong
+			> degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap between engineers
 			and designers and am passionate about increasing diversity in the technology field.
 		</p>
 
