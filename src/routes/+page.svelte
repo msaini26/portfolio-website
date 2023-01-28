@@ -47,7 +47,7 @@
 			<div class="row row-cols">
 				<div class="col-1">
 					<a href="https://www.linkedin.com/in/mansi-saini26/"
-						><img class="icon" alt="linkedin" src="/src/public/static/assets/linkedin.svg" /></a
+						><img class="icon" alt="linkedin" src="atest.png" /></a
 					>
 				</div>
 				<div class="col-1">
