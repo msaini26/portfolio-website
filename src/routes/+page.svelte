@@ -39,15 +39,17 @@
 		<p class="subhead col-12 col-md-9">
 			I'm an undergraduate student at the University of California, Santa Cruz pursuing a <strong
 				>B.S. in Computer Science: Computer Game Design</strong
-			> degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap between engineers
-			and designers and am passionate about increasing diversity in the technology field.
+			>
+			degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap
+			between engineers and designers and am passionate about increasing diversity in the technology
+			field.
 		</p>
 
 		<div class="container">
 			<div class="row row-cols">
 				<div class="col-1">
 					<a href="https://www.linkedin.com/in/mansi-saini26/"
-						><img class="icon" alt="linkedin" src="atest.png" /></a
+						><img class="icon" alt="linkedin" src="/src/public/static/assets/linkedin.svg" /></a
 					>
 				</div>
 				<div class="col-1">

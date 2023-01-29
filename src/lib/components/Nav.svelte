@@ -16,7 +16,7 @@
 	<header class="nav-main"> 
 		<nav class="navbar navbar-light shift">
 			<a class="navbar-brand" href="/">
-				<img src="../../src/public/static/assets/personal-logo.svg" width="45" height="45" class="d-inline-block align-top" alt="">
+				<img src="/src/public/static/assets/personal-logo.svg" width="45" height="45" class="d-inline-block align-top" alt="">
 			</a>
 			<ul class="hvr-nav">
 				<li><a href="/about">About</a></li>
