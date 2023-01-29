@@ -39,10 +39,8 @@
 		<p class="subhead col-12 col-md-9">
 			I'm an undergraduate student at the University of California, Santa Cruz pursuing a <strong
 				>B.S. in Computer Science: Computer Game Design</strong
-			>
-			degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap
-			between engineers and designers and am passionate about increasing diversity in the technology
-			field.
+			> degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap between engineers
+			and designers and am passionate about increasing diversity in the technology field.
 		</p>
 
 		<div class="container">
