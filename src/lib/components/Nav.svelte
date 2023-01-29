@@ -1,3 +1,7 @@
+<script>
+	import logo from '../../public/static/assets/personal-logo.svg'
+</script>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -16,7 +20,7 @@
 	<header class="nav-main"> 
 		<nav class="navbar navbar-light shift">
 			<a class="navbar-brand" href="/">
-				<img src="../../src/public/static/assets/personal-logo.svg" width="45" height="45" class="d-inline-block align-top" alt="">
+				<img src={logo} width="45" height="45" class="d-inline-block align-top" alt="personal-logo">
 			</a>
 			<ul class="hvr-nav">
 				<li><a href="/about">About</a></li>
