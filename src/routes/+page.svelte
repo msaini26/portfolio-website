@@ -2,12 +2,12 @@
 	import Begin from '../lib/components/Begin.svelte';
 	import Frame from '../routes/Frame.svelte';
 
-	let linkedin_img = './src/public/static/assets/linkedin.svg'
-	import devpost_img from '../public/static/assets/devpost.svg'
-	let devpost = 'Devpost'
+	import linkedin_img from '../public/static/assets/linkedin.svg'
 	import github_img from '../public/static/assets/github.svg'
+	import devpost_img from '../public/static/assets/devpost.svg'
 	let linkedin = 'LinkedIn'
 	let github = 'GitHub'
+	let devpost = 'Devpost'
 </script>
 
 <!DOCTYPE html>
