@@ -49,12 +49,12 @@
 			<div class="row row-cols">
 				<div class="col-1">
 					<a href="https://www.linkedin.com/in/mansi-saini26/"
-						><img class="icon" alt="linkedin" src="/src/public/static/assets/linkedin.svg" /></a
+						><img class="icon" alt="linkedin" src="./src/public/static/assets/linkedin.svg" /></a
 					>
 				</div>
 				<div class="col-1">
 					<a href="https://github.com/msaini26"
-						><img class="icon" alt="github" src="/src/public/static/assets/github.svg" /></a
+						><img class="icon" alt="github" src="./src/public/static/assets/github.svg" /></a
 					>
 				</div>
 				<div class="col-1">
