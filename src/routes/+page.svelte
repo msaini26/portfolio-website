@@ -1,6 +1,13 @@
 <script>
 	import Begin from '../lib/components/Begin.svelte';
 	import Frame from '../routes/Frame.svelte';
+
+	let linkedin_img = './src/public/static/assets/linkedin.svg'
+	import devpost_img from '../public/static/assets/devpost.svg'
+	let devpost = 'Devpost'
+	import github_img from '../public/static/assets/github.svg'
+	let linkedin = 'LinkedIn'
+	let github = 'GitHub'
 </script>
 
 <!DOCTYPE html>
@@ -47,17 +54,17 @@
 			<div class="row row-cols">
 				<div class="col-1">
 					<a href="https://www.linkedin.com/in/mansi-saini26/"
-						><img class="icon" alt="linkedin" src="./src/public/static/assets/linkedin.svg" /></a
+						><img src={linkedin_img} class="icon" alt="{linkedin} profile"/></a
 					>
 				</div>
 				<div class="col-1">
 					<a href="https://github.com/msaini26"
-						><img class="icon" alt="github" src="./src/public/static/assets/github.svg" /></a
+						><img src={github_img} class="icon" alt="{github} profile" /></a
 					>
 				</div>
 				<div class="col-1">
 					<a href="https://devpost.com/mainiGWC/"
-						><img class="icon" alt="devpost" src="/src/public/static/assets/devpost.svg" /></a
+						><img src={devpost_img} class="icon" alt="{devpost} profile" /></a
 					>
 				</div>
 			</div>
