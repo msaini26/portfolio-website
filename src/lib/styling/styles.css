@@ -4,7 +4,7 @@
 	text-align: center;
 }
 
-/* NAVIGATION */
+/* Navigation Start */
 nav {
 	width: 100%;
 	margin: 0 auto;
@@ -67,8 +67,9 @@ nav.shift ul li a:hover:after {
 	visibility: visible;
 	height: 80%;
 }
+/* Navigation End */
 
-/* Titles */
+/* Titles Start */
 .title {
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
@@ -80,15 +81,21 @@ nav.shift ul li a:hover:after {
 	margin-top: 15px;
 	margin-bottom: 20px;
 }
+/* Titles End */
 
-/* Bio */
-.bio {
+/* Content Start */
+.content-display {
 	padding: 10%;
 }
+/* Content End */
 
 /* Social Media Icons */
 .icon {
   width: 35px;
   height: auto;
   padding: 5px;
+}
+
+#tmp {
+	padding: 1000px;
 }

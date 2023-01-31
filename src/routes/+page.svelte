@@ -2,12 +2,12 @@
 	import Begin from '../lib/components/Begin.svelte';
 	import Frame from '../routes/Frame.svelte';
 
-	import linkedin_img from '../public/static/assets/linkedin.svg'
-	import github_img from '../public/static/assets/github.svg'
-	import devpost_img from '../public/static/assets/devpost.svg'
-	let linkedin = 'LinkedIn'
-	let github = 'GitHub'
-	let devpost = 'Devpost'
+	import linkedin_img from '../public/static/assets/linkedin.svg';
+	import github_img from '../public/static/assets/github.svg';
+	import devpost_img from '../public/static/assets/devpost.svg';
+	let linkedin = 'LinkedIn';
+	let github = 'GitHub';
+	let devpost = 'Devpost';
 </script>
 
 <!DOCTYPE html>
@@ -39,22 +39,25 @@
 <Frame />
 
 <!-- About/Bio -->
-<div class="container bio">
+<div class="container content-display">
 	<div class="row">
 		<h1 class="title col-md-12">Hi, I'm Mansi</h1>
 		<h4 class="col-md-12 subtitle">Hackathon Coach @ Major League Hacking</h4>
 		<p class="subhead col-12 col-md-9">
 			I'm an undergraduate student at the University of California, Santa Cruz pursuing a <strong
 				>B.S. in Computer Science: Computer Game Design</strong
-			> degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap between engineers
-			and designers and am passionate about increasing diversity in the technology field.
+			>
+			degree and have a passion for <i>Human-Computer Interaction (HCI)</i>. I bridge the gap
+			between engineers and designers and am passionate about increasing diversity in the technology
+			field.
 		</p>
 
+		<!-- Social Media Links -->
 		<div class="container">
 			<div class="row row-cols">
 				<div class="col-1">
 					<a href="https://www.linkedin.com/in/mansi-saini26/"
-						><img src={linkedin_img} class="icon" alt="{linkedin} profile"/></a
+						><img src={linkedin_img} class="icon" alt="{linkedin} profile" /></a
 					>
 				</div>
 				<div class="col-1">
@@ -69,6 +72,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- Social Media Links -->
+	</div>
+	<div id="tmp">hi</div> 
+	<div class="row">
+		<div class="col-sm-6">
+			<img src="../public/static/assets/github.svg" alt="github"/>
+		</div>
 	</div>
 </div>
