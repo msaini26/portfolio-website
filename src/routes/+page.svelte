@@ -76,34 +76,98 @@
 		</div>
 	</section>
 
-	<!-- <div class="container"> -->
 	<section>
 		<div class="row row-cols new-section">
 			<h3 class="col-md-12 subtitle">Featured Projects</h3>
 			<div class="col-9 col-md-4 project-cards">
-				<a href="/about" class="project">
+				<a href="https://devpost.com/software/ultraverse" class="project">
 					<div class="project-name">
 						<div class="project-title-container">
-							<div class="project-title">Ultraverse • Development Project</div>
+							<h4 class="project-title">Ultraverse • Development Project</h4>
 						</div>
 						<div class="project-title-container">
 							<div class="project-subtitle">
-								"A Marvel fanatic platform designed to strengthen the Marvel community virtually
-								through watch parties with chats, a map featuring movie film locations, and Marvel
-								superyoga"
+								Marvel fanatic entertainment platform featuring watch parties with live chats, an
+								interactive map with movie film locations, and Marvel superyoga
 							</div>
 						</div>
-					</div>
-					<div class="project-img-container">
-						<img src={linkedin_img} alt="linkedin" />
 					</div>
 				</a>
 			</div>
 			<div class="col-9 col-md-4 project-cards">
-				<img src={linkedin_img} alt="linkedin" />
+				<a href="/coding" class="project">
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Ultraverse • Development Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Marvel fanatic entertainment platform featuring watch parties with live chats, an
+								interactive map with movie film locations, and Marvel superyoga
+							</div>
+						</div>
+					</div>
+				</a>
 			</div>
 			<div class="col-9 col-md-4 project-cards">
-				<img src={linkedin_img} alt="linkedin" />
+				<a href="/coding" class="project">
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Ultraverse • Development Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Marvel fanatic entertainment platform featuring watch parties with live chats, an
+								interactive map with movie film locations, and Marvel superyoga
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-9 col-md-4 project-cards">
+				<a href="/coding" class="project">
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Ultraverse • Development Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Marvel fanatic entertainment platform featuring watch parties with live chats, an
+								interactive map with movie film locations, and Marvel superyoga
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-9 col-md-4 project-cards">
+				<a href="/coding" class="project">
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Ultraverse • Development Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Marvel fanatic entertainment platform featuring watch parties with live chats, an
+								interactive map with movie film locations, and Marvel superyoga
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-9 col-md-4 project-cards">
+				<a href="/coding" class="project">
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Ultraverse • Development Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Marvel fanatic entertainment platform featuring watch parties with live chats, an
+								interactive map with movie film locations, and Marvel superyoga
+							</div>
+						</div>
+					</div>
+				</a>
 			</div>
 		</div>
 	</section>

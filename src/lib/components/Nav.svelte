@@ -31,3 +31,5 @@
 		</nav>
 	</header>
 </html>
+
+<!-- TODO: if at about page, highlight about in nav -->

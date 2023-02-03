@@ -110,17 +110,19 @@ a {
 
 .project {
 	display:flex;
-	justify-items: center;
+	justify-items: center;	
+	height: 100%;
 }
 
 .project-cards a {
 	/* display: block; */
-	background-color: grey;
-	padding: 12px;
+	background-image: url("../../public/static/assets/ultraverse.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 50px;
 	text-decoration: none;
-	color: rgb(0, 0, 0);
 	font-family: 'Inter', sans-serif;
-	margin: 0 10px;
+	color: transparent;
 }
 
 .project-cards a,
@@ -129,7 +131,8 @@ a {
 	transition: all 0.5s;
 }
 .project-cards a:hover {
-	color: #555;
+	color: rgb(54, 54, 54);
+	text-decoration: none;
 }
 
 /* Hover shift */
@@ -173,4 +176,16 @@ div.project-cards a:hover:after {
 	text-decoration: none;
 }
 
+.project-title {
+	padding-bottom: 20px;
+	font-weight: 300;
+}
 /* End Project Cards */
+
+/* Begin About Page */
+#about-headshot {
+	height: 30%;
+}
+
+/* TODO: image is why there is so much extra space between the two sections; 
+import smaller image - solution */
