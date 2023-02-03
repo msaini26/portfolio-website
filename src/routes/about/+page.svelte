@@ -1,7 +1,7 @@
 <script>
 	import Begin from '../../lib/components/Begin.svelte';
 	import Frame from '../../routes/Frame.svelte';
-	import headshot from '../../public/static/assets/headshot2.jpg';
+	import headshot from '../../public/static/assets/headshot-small.jpg';
 
 	let about_pic = 'about me picture';
 </script>
@@ -52,10 +52,10 @@
 					technology field.
 				</p>
 			</div>
-			<div class="col-md-2" />
+			<div class="col-md-1" />
 			<!-- TODO: contain entire line vs empty div -->
-			<div class="col-md-4 new-section">
-				<img id="about-headshot" src={headshot} alt={about_pic} />
+			<div class="col-md-5 new-section">
+				<img class="col-md-12" src={headshot} alt={about_pic} />
 			</div>
 		</div>
 	</section>
