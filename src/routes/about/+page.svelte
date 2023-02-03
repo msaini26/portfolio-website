@@ -1,7 +1,7 @@
 <script>
 	import Begin from '../../lib/components/Begin.svelte';
 	import Frame from '../../routes/Frame.svelte';
-	import headshot from '../../public/static/assets/headshot.jpg';
+	import headshot from '../../public/static/assets/headshot2.jpg';
 
 	let about_pic = 'about me picture';
 </script>
