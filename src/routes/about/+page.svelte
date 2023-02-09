@@ -40,7 +40,7 @@
 <!-- About/Bio -->
 <div class="container content-display">
 	<section>
-		<div class="row row-cols new section">
+		<div class="row row-cols new-section">
 			<div class="col-md-6">
 				<h3 class="subtitle">About Me</h3>
 				<p class="subhead">
@@ -62,13 +62,14 @@
 
 	<div class="container content-display">
 		<section>
-			<div class="row row-cols new section">
+			<div class="row row-cols new-section">
 				<div class="col-md-6">
 					<h3 class="subtitle">Features</h3>
 				</div>
 				<div class="col-md-2" />
-				<div class="col-md-4 new-section">
-					<p>insert article features here</p>
+				<div class="col-md-4">
+					<a href="https://top.mlh.io/2022/profiles/mansi-saini"><h5 class="links">🔗 MLH's Top 50 Hackers | Mansi Saini</h5></a>
+					<a href="https://medium.com/techtogether/deishacks-my-first-non-profit-organization-centered-hackathon-ce49bf5cf59"><h5 class="links">🔗 My First Nonprofit Centered Hackathon, DeisHacks</h5></a>
 				</div>
 			</div>
 		</section>
