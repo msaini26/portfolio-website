@@ -185,3 +185,10 @@ div.project-cards a:hover:after {
 
 /* TODO: image is why there is so much extra space between the two sections; 
 import smaller image - solution */
+
+
+.links {
+	text-decoration: none;
+	font-family: 'Inter', sans-serif;
+	padding-top: 1rem;
+}
