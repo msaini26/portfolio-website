@@ -38,11 +38,13 @@
 <!-- insert header and footer -->
 <Frame />
 
+
 <!-- About/Bio -->
 <div class="container content-display">
 	<section>
 		<div class="row">
-			<h1 class="title col-md-12">Hi, I'm Mansi</h1>
+			<h1 class="title col-md-12">Hi, I'm Mansi <span class="wave">👋</span></h1>
+			
 			<h4 class="col-md-12 subtitle">Hackathon Coach @ Major League Hacking</h4>
 			<p class="subhead col-12 col-md-9">
 				I'm an undergraduate student at the University of California, Santa Cruz pursuing a <strong

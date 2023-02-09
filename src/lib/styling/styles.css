@@ -67,6 +67,7 @@ nav.shift ul li a:hover:after {
 	visibility: visible;
 	height: 80%;
 }
+
 /* Navigation End */
 
 /* Titles Start */
@@ -80,6 +81,42 @@ nav.shift ul li a:hover:after {
 	font-weight: 300;
 	margin-top: 15px;
 	margin-bottom: 20px;
+}
+
+.wave {
+	animation-name: wave-hello; /* Refers to the name of your @keyframes element below */
+	animation-duration: 2.5s; /* Change to speed up or slow down */
+	animation-iteration-count: infinite; /* Never stop waving :) */
+	transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
+	display: inline-block;
+	font-size: 3rem;
+}
+
+@keyframes wave-hello {
+	0% {
+		transform: rotate(0deg);
+	}
+	10% {
+		transform: rotate(15deg);
+	} /* Change extreme or less waving */
+	20% {
+		transform: rotate(-10deg);
+	}
+	30% {
+		transform: rotate(15deg);
+	}
+	40% {
+		transform: rotate(-8deg);
+	}
+	50% {
+		transform: rotate(8deg);
+	}
+	60% {
+		transform: rotate(0deg);
+	} /* Reset for the last half to pause */
+	100% {
+		transform: rotate(0deg);
+	}
 }
 /* Titles End */
 
@@ -98,9 +135,15 @@ a {
 
 /* Social Media Icons */
 .icon {
-  width: 35px;
-  height: auto;
-  padding: 5px;
+	width: 35px;
+	height: auto;
+	padding: 5px;
+}
+
+.links {
+	text-decoration: none;
+	font-family: 'Inter', sans-serif;
+	padding-top: 1rem;
 }
 
 /* Start Project Cards */
@@ -109,14 +152,14 @@ a {
 }
 
 .project {
-	display:flex;
-	justify-items: center;	
+	display: flex;
+	justify-items: center;
 	height: 100%;
 }
 
 .project-cards a {
 	/* display: block; */
-	background-image: url("../../public/static/assets/ultraverse.png");
+	background-image: url('../../public/static/assets/ultraverse.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	padding: 50px;
@@ -182,13 +225,5 @@ div.project-cards a:hover:after {
 }
 /* End Project Cards */
 
-
 /* TODO: image is why there is so much extra space between the two sections; 
 import smaller image - solution */
-
-
-.links {
-	text-decoration: none;
-	font-family: 'Inter', sans-serif;
-	padding-top: 1rem;
-}

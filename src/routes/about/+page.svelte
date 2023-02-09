@@ -40,7 +40,7 @@
 <!-- About/Bio -->
 <div class="container content-display">
 	<section>
-		<div class="row row-cols new-section">
+		<div class="row row-cols">
 			<div class="col-md-6">
 				<h3 class="subtitle">About Me</h3>
 				<p class="subhead">
@@ -51,29 +51,38 @@
 					between engineers and designers and am passionate about increasing diversity in the
 					technology field.
 				</p>
+				<br />
+				<h5 class="subtitle">Fun Facts</h5>
+				<p>⭐ <i>Kayaked through ice to a glacier in a rainstorm</i> 🏔️</p>
+				<p>⭐ <i>Impacted <strong>1,500+</strong> hackers to date</i> 👩‍💻</p>
+				<p>⭐ <i>Avocado toast enthusiast 🥑</i></p>
+
+
+				<br />
 			</div>
 			<div class="col-md-1" />
 			<!-- TODO: contain entire line vs empty div -->
-			<div class="col-md-5 new-section">
+			<div class="col-md-5">
 				<img class="col-md-12" src={headshot} alt={about_pic} />
 			</div>
 		</div>
 	</section>
 
-	<div class="container content-display">
-		<section>
-			<div class="row row-cols new-section">
-				<div class="col-md-6">
-					<h3 class="subtitle">Features</h3>
-				</div>
-				<div class="col-md-2" />
-				<div class="col-md-4">
-					<a href="https://top.mlh.io/2022/profiles/mansi-saini"><h5 class="links">🔗 MLH's Top 50 Hackers | Mansi Saini</h5></a>
-					<a href="https://medium.com/techtogether/deishacks-my-first-non-profit-organization-centered-hackathon-ce49bf5cf59"><h5 class="links">🔗 My First Nonprofit Centered Hackathon, DeisHacks</h5></a>
-				</div>
+	<section>
+		<div class="row row-cols new-section">
+			<div class="col-md-6">
+				<h3 class="subtitle">Features</h3>
 			</div>
-		</section>
-	</div>
+			<div class="col-md-12">
+				<a href="https://top.mlh.io/2022/profiles/mansi-saini"
+					><h5 class="links">🔗 MLH's Top 50 Hackers | Mansi Saini</h5></a
+				>
+				<a
+					href="https://medium.com/techtogether/deishacks-my-first-non-profit-organization-centered-hackathon-ce49bf5cf59"
+					><h5 class="links">🔗 My First Nonprofit Centered Hackathon, DeisHacks</h5></a
+				>
+			</div>
+			<div class="col-md-2" />
+		</div>
+	</section>
 </div>
-
-
