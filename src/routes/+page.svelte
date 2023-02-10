@@ -38,13 +38,12 @@
 <!-- insert header and footer -->
 <Frame />
 
-
 <!-- About/Bio -->
 <div class="container content-display">
 	<section>
 		<div class="row">
 			<h1 class="title col-md-12">Hi, I'm Mansi <span class="wave">👋</span></h1>
-			
+
 			<h4 class="col-md-12 subtitle">Hackathon Coach @ Major League Hacking</h4>
 			<p class="subhead col-12 col-md-9">
 				I'm an undergraduate student at the University of California, Santa Cruz pursuing a <strong
@@ -82,7 +81,7 @@
 		<div class="row row-cols new-section">
 			<h3 class="col-md-12 subtitle">Featured Projects</h3>
 			<div class="col-9 col-md-4 project-cards">
-				<a href="https://devpost.com/software/ultraverse" class="project">
+				<a href="https://devpost.com/software/ultraverse" id="ultra" class="project">
 					<div class="project-name">
 						<div class="project-title-container">
 							<h4 class="project-title">Ultraverse • Development Project</h4>
@@ -97,6 +96,41 @@
 				</a>
 			</div>
 			<div class="col-9 col-md-4 project-cards">
+				<a
+					href="https://www.figma.com/file/rdiUQpY7YMcCPA4UkUptFx/Duolingo-inspired-Fitness-Application?node-id=0%3A1&t=un8pLRKknd7kkET2-1"
+					id="fitness"
+					class="project"
+				>
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Duolingo-inspired Fitness App • UI/UX Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Duolingo-inspired fitness mobile application concept designed to help encourage
+								users set fitness goals and track their daily activity
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-9 col-md-4 project-cards">
+				<a href="/" id="remember" class="project">
+					<div class="project-name">
+						<div class="project-title-container">
+							<h4 class="project-title">Remember Why You Started • Graphic Design Project</h4>
+						</div>
+						<div class="project-title-container">
+							<div class="project-subtitle">
+								Motivational typography piece targeted towards the younger generation to encourage
+								perseverance through tough situations
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- TODO: add next row of featured projects -->
+			<!-- <div class="col-9 col-md-4 project-cards">
 				<a href="/coding" class="project">
 					<div class="project-name">
 						<div class="project-title-container">
@@ -140,37 +174,7 @@
 						</div>
 					</div>
 				</a>
-			</div>
-			<div class="col-9 col-md-4 project-cards">
-				<a href="/coding" class="project">
-					<div class="project-name">
-						<div class="project-title-container">
-							<h4 class="project-title">Ultraverse • Development Project</h4>
-						</div>
-						<div class="project-title-container">
-							<div class="project-subtitle">
-								Marvel fanatic entertainment platform featuring watch parties with live chats, an
-								interactive map with movie film locations, and Marvel superyoga
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<div class="col-9 col-md-4 project-cards">
-				<a href="/coding" class="project">
-					<div class="project-name">
-						<div class="project-title-container">
-							<h4 class="project-title">Ultraverse • Development Project</h4>
-						</div>
-						<div class="project-title-container">
-							<div class="project-subtitle">
-								Marvel fanatic entertainment platform featuring watch parties with live chats, an
-								interactive map with movie film locations, and Marvel superyoga
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
+			</div> -->
 		</div>
 	</section>
 </div>

@@ -157,11 +157,33 @@ a {
 	height: 100%;
 }
 
-.project-cards a {
-	/* display: block; */
+/* Project Background Images Begin */
+#ultra{
 	background-image: url('../../public/static/assets/ultraverse.png');
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 110%;
+	background-position: center;
+}
+
+#fitness {
+	background-image: url('../../public/static/assets/fitness-logo.jpg');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+#remember {
+	background-image: url('../../public/static/assets/remember.jpg');
+	background-repeat: no-repeat;
+	background-size: 160%;
+	background-position-x: left;
+	background-position-y: bottom;
+}
+
+/* Project Background Images End */
+
+.project-cards a {
+	/* display: block; */
 	padding: 50px;
 	text-decoration: none;
 	font-family: 'Inter', sans-serif;

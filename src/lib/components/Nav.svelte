@@ -24,9 +24,9 @@
 			</a>
 			<ul class="hvr-nav">
 				<li><a href="/about">About</a></li>
-				<li><a href="/design">Design</a></li>
-				<li><a href="/coding">Coding</a></li>
-				<li><a href="/contact">Contact</a></li>
+				<!-- <li><a href="/design">Design</a></li>
+				<li><a href="/coding">Coding</a></li> -->
+				<li><a href="https://www.linkedin.com/in/mansi-saini26/">Contact</a></li>
 			</ul>
 		</nav>
 	</header>
