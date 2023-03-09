@@ -130,7 +130,7 @@
 				</a>
 			</div>
 			<!-- TODO: add next row of featured projects -->
-			<div class="col-9 col-md-4 project-cards">
+			<div class="col-9 col-md-4 project-cards" id="rot-color">
 				<a href="https://deishacks.itzsims.repl.co/" id="rotary" class="project">
 					<div class="project-name">
 						<div class="project-title-container">

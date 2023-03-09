@@ -181,10 +181,10 @@ a {
 }
 
 #rotary {
-	background-image: url('../../public/static/assets/rotary.jpg');
+	background-image: url('../../public/static/assets/rotary.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
-	background-position-x: left;
+	background-position-x: center;
 	background-position-y: bottom;
 }
 
