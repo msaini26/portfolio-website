@@ -58,17 +58,17 @@
 			<div class="container">
 				<div class="row row-cols">
 					<div class="col-1">
-						<a href="https://www.linkedin.com/in/mansi-saini26/"
+						<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/mansi-saini26/"
 							><img src={linkedin_img} class="icon" alt="{linkedin} profile" /></a
 						>
 					</div>
 					<div class="col-1">
-						<a href="https://github.com/msaini26"
+						<a target="_blank" rel="noreferrer" href="https://github.com/msaini26"
 							><img src={github_img} class="icon" alt="{github} profile" /></a
 						>
 					</div>
 					<div class="col-1">
-						<a href="https://devpost.com/mainiGWC/"
+						<a target="_blank" rel="noreferrer" href="https://devpost.com/mainiGWC/"
 							><img src={devpost_img} class="icon" alt="{devpost} profile" /></a
 						>
 					</div>
@@ -81,7 +81,13 @@
 		<div class="row row-cols new-section">
 			<h3 class="col-md-12 subtitle">Featured Projects</h3>
 			<div class="col-9 col-md-4 project-cards">
-				<a href="https://devpost.com/software/ultraverse" id="ultra" class="project">
+				<a
+					target="_blank"
+					rel="noreferrer"
+					href="https://devpost.com/software/ultraverse"
+					id="ultra"
+					class="project"
+				>
 					<div class="project-name">
 						<div class="project-title-container">
 							<h4 class="project-title">Ultraverse • Development Project</h4>
@@ -97,6 +103,8 @@
 			</div>
 			<div class="col-9 col-md-4 project-cards">
 				<a
+					target="_blank"
+					rel="noreferrer"
 					href="https://www.figma.com/file/rdiUQpY7YMcCPA4UkUptFx/Duolingo-inspired-Fitness-Application?node-id=0%3A1&t=un8pLRKknd7kkET2-1"
 					id="fitness"
 					class="project"
@@ -131,7 +139,13 @@
 			</div>
 			<!-- TODO: add next row of featured projects -->
 			<div class="col-9 col-md-4 project-cards" id="rot-color">
-				<a href="https://deishacks.itzsims.repl.co/" id="rotary" class="project">
+				<a
+					target="_blank"
+					rel="noreferrer"
+					href="https://deishacks.itzsims.repl.co/"
+					id="rotary"
+					class="project"
+				>
 					<div class="project-name">
 						<div class="project-title-container">
 							<h4 class="project-title">Rotary Website Revamp • Web Development Project</h4>
