@@ -180,6 +180,14 @@ a {
 	background-position-y: bottom;
 }
 
+#rotary {
+	background-image: url('../../public/static/assets/rotary.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position-x: left;
+	background-position-y: bottom;
+}
+
 /* Project Background Images End */
 
 .project-cards a {

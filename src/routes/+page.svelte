@@ -130,16 +130,16 @@
 				</a>
 			</div>
 			<!-- TODO: add next row of featured projects -->
-			<!-- <div class="col-9 col-md-4 project-cards">
-				<a href="/coding" class="project">
+			<div class="col-9 col-md-4 project-cards">
+				<a href="https://deishacks.itzsims.repl.co/" id="rotary" class="project">
 					<div class="project-name">
 						<div class="project-title-container">
-							<h4 class="project-title">Ultraverse • Development Project</h4>
+							<h4 class="project-title">Rotary Website Revamp • Web Development Project</h4>
 						</div>
 						<div class="project-title-container">
 							<div class="project-subtitle">
-								Marvel fanatic entertainment platform featuring watch parties with live chats, an
-								interactive map with movie film locations, and Marvel superyoga
+								A revamped website for Waltham Rotary Club with powerful new features, structure,
+								and enhancements.
 							</div>
 						</div>
 					</div>
@@ -174,7 +174,7 @@
 						</div>
 					</div>
 				</a>
-			</div> -->
+			</div>
 		</div>
 	</section>
 </div>
