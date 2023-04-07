@@ -10,12 +10,16 @@
 	let devpost = 'Devpost';
 </script>
 
+<!-- TODO: figure out why password protection is not working -->
+<!-- <svelte:head> <script data-site-id='02d0e18c-117e-4cee-9982-dc46136120be' data-cap='Please enter the password' src='https://staticshield.vercel.app/script.js'></script><script>setInterval(()=>{window.staticshieldToken||window.location.replace("https://bit.ly/req-blk-ss")},3e3);</script> <style>.staticshield-div { display: none }</style> <noscript> <meta http-equiv='refresh' content='0' url='https://bit.ly/ss-noscript'/></noscript> </svelte:head> -->
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<!-- Required meta tags -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
+		
 		<!-- Bootstrap CSS -->
 		<link
 			rel="stylesheet"
@@ -138,7 +142,7 @@
 				</a>
 			</div>
 			<!-- TODO: add next row of featured projects -->
-			<div class="col-9 col-md-4 project-cards" id="rot-color">
+			<div class="col-9 col-md-4 project-cards">
 				<a
 					target="_blank"
 					rel="noreferrer"
