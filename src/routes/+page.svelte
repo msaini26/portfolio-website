@@ -19,7 +19,6 @@
 		<!-- Required meta tags -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-		
 		<!-- Bootstrap CSS -->
 		<link
 			rel="stylesheet"
@@ -146,48 +145,47 @@
 				<a
 					target="_blank"
 					rel="noreferrer"
-					href="https://deishacks.itzsims.repl.co/"
-					id="rotary"
+					href="https://msaini26.github.io/avocado-adventure/"
+					id="avocado"
 					class="project"
 				>
 					<div class="project-name">
 						<div class="project-title-container">
-							<h4 class="project-title">Rotary Website Revamp • Web Development Project</h4>
+							<h4 class="project-title">Avocado Adventure • Game Development Project</h4>
 						</div>
 						<div class="project-title-container">
 							<div class="project-subtitle">
-								A revamped website for Waltham Rotary Club with powerful new features, structure,
-								and enhancements.
+								An endless avocado themed jumper utilizing Javascript's Phaser 3 library for the
+								arcade physics.
 							</div>
 						</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-9 col-md-4 project-cards">
-				<a href="/coding" class="project">
+				<a href="/" id="wolf" class="project">
 					<div class="project-name">
 						<div class="project-title-container">
-							<h4 class="project-title">Ultraverse • Development Project</h4>
+							<h4 class="project-title">Wolf GIF • Design Animation Project</h4>
 						</div>
 						<div class="project-title-container">
 							<div class="project-subtitle">
-								Marvel fanatic entertainment platform featuring watch parties with live chats, an
-								interactive map with movie film locations, and Marvel superyoga
+								Realistic wolf howling animation designed in Adobe Illustrator and Adobe Photoshop.
 							</div>
 						</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-9 col-md-4 project-cards">
-				<a href="/coding" class="project">
+				<a href="https://msaini26.github.io/candy-clouds/" id="candy" class="project">
 					<div class="project-name">
 						<div class="project-title-container">
-							<h4 class="project-title">Ultraverse • Development Project</h4>
+							<h4 class="project-title">Candy Clouds • Game Development Project</h4>
 						</div>
 						<div class="project-title-container">
 							<div class="project-subtitle">
-								Marvel fanatic entertainment platform featuring watch parties with live chats, an
-								interactive map with movie film locations, and Marvel superyoga
+								A candy-themed, Rocket Patrol-inspired shooter game with single-player novice and
+								expert modes.
 							</div>
 						</div>
 					</div>
